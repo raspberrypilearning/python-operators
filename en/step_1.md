@@ -1,59 +1,21 @@
-## Introduction
+Operators are used in Python to perform operations on variables and values.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Here are some of the basic operators you can use in your Python projects:
 
-### What you will make
+### Arithmetic operators
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Python's arithmetic operators perform common mathematical operations.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Assignment operators
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Python's assignment operators are used to assign values to variables.
 
-+ A computer or tablet capable of running Scratch 3
+![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment.operators.png)
 
-### Software
+### Comparison operators
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
 
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![A table showing the following arithmetic operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another](images/comparison_operators.pngarithmet)

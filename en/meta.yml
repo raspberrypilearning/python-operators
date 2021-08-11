@@ -1,11 +1,9 @@
-title: python-operators
+title: Python operators
 hero_image: images/banner.png
-description: python-operators description
+description: Ingredient explaining the basics of using operators in Ptyhon 3
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-08-11"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Python operators

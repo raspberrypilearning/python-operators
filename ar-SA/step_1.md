@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+يتم استخدام المعاملات في Python لإجراء عمليات على المتغيرات والقيم.
 
-Here are some of the basic operators you can use in your Python projects:
+فيما يلي بعض المعاملات الأساسية التي يمكنك استخدامها في مشاريع Python الخاصة بك:
 
-### Arithmetic operators
+### المعاملات الحسابية
 
-Python's arithmetic operators perform common mathematical operations.
+تؤدي المعاملات الحسابية في Python العمليات الحسابية الشائعة.
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![جدول يوضح المعاملات الحسابية التالية: + إجراء عملية الجمع ؛ - ينفذ الطرح. * يقوم بعملية الضرب. / ينفذ القسمة ؛ // ينفذ قسمة أرضية حيث تكون الإجابة عددًا صحيحًا يزيل الكسور العشرية ؛ ** ينفذ الأس. ٪ يؤدي وظيفة المعامل.](images/arithmetic_operators.png)
 
-### Assignment operators
+### معاملات التخصيص
 
-Python's assignment operators are used to assign values to variables.
+تُستخدم معاملات التخصيص في Python لتعيين قيم للمتغيرات.
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![جدول يوضح عوامل التخصيص التالية: = يعين قيمة متغير يساوي ؛ + = يضيف قيمة إلى المتغير ؛ - = تطرح قيمة من المتغير ؛ * = تضرب قيمة في المتغير ؛ / = يقسم قيمة من المتغير.](images/assignment_operators.png)
 
-### Comparison operators
+### معاملات المقارنة
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+تُستخدم عمليات المقارنة في Python لمقارنة قيمتين، ويتم استخدامها بشكل شائع مع العبارات الشرطية أو عبارة `if`.
 
-![A table showing the following arithmetic operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)
+![جدول يوضح العوامل الحسابية التالية: == يقارن بين قيمتين لمعرفة ما إذا كانت متساوية ؛ ! = يقارن بين قيمتين لمعرفة ما إذا كانت ليست متساوية ؛ <يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أقل من الأخرى ؛ > يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أكبر من الأخرى ؛ > = يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أكبر من الأخرى أو تساويها ؛; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)

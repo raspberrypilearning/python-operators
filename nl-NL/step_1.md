@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+Operatoren worden in Python gebruikt om bewerkingen op variabelen en waarden uit te voeren.
 
-Here are some of the basic operators you can use in your Python projects:
+Hier zijn enkele basisoperatoren die je in jouw Python-projecten kunt gebruiken:
 
-### Arithmetic operators
+### Rekenkundige operatoren
 
-Python's arithmetic operators perform common mathematical operations.
+De rekenkundige operatoren van Python voeren vaak voorkomende wiskundige bewerkingen uit.
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![Een tabel met de volgende rekenkundige operatoren: + voert optelling uit; - voert aftrekking uit; * voert vermenigvuldiging uit; / voert deling uit; // voert verdiepingsdeling uit waarbij het antwoord een geheel getal is waarbij de decimalen worden verwijderd; ** voert machtsverheffing uit; % voert de restwaarde-functie (modulo) uit.](images/arithmetic_operators.png)
 
-### Assignment operators
+### Toekenningsoperatoren
 
-Python's assignment operators are used to assign values to variables.
+De toekenningsoperatoren van Python worden gebruikt om waarden aan variabelen toe te kennen.
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![Een tabel met de volgende toekenningsoperatoren: = kent een waarde toe waaraan een variabele gelijk is; += telt een waarde op bij de variabele; -= trekt een waarde af van de variabele; *= vermenigvuldigt de variabele met een waarde; /= deelt de variabele door een waarde.](images/assignment_operators.png)
 
-### Comparison operators
+### Vergelijkingsoperatoren
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+De vergelijkingsoperatoren van Python worden gebruikt om twee waarden te vergelijken en worden vaak gebruikt met voorwaardelijke of `if`-instructies.
 
-![A table showing the following arithmetic operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)
+![Een tabel met de volgende vergelijkingsoperatoren: == vergelijkt twee waarden om te zien of ze gelijk zijn; != vergelijkt twee waarden om te zien of ze niet gelijk zijn; < vergelijkt twee waarden om te zien of de ene minder is dan de andere; > vergelijkt twee waarden om te zien of de ene groter is dan de andere; >= vergelijkt twee waarden om te zien of de ene groter is dan of gelijk is aan de andere; <= vergelijkt twee waarden om te zien of de ene kleiner is dan of gelijk is aan de andere; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)

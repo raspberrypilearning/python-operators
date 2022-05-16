@@ -18,4 +18,4 @@
 
 تُستخدم عمليات المقارنة في Python لمقارنة قيمتين، ويتم استخدامها بشكل شائع مع العبارات الشرطية أو عبارة `if`.
 
-![جدول يوضح العوامل الحسابية التالية: == يقارن بين قيمتين لمعرفة ما إذا كانت متساوية ؛ ! = يقارن بين قيمتين لمعرفة ما إذا كانت ليست متساوية ؛ <يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أقل من الأخرى ؛ > يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أكبر من الأخرى ؛ > = يقارن بين قيمتين لمعرفة ما إذا كانت إحداهما أكبر من الأخرى أو تساويها ؛; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)
+![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another.](images/comparison_operators.png)

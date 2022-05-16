@@ -18,4 +18,4 @@ Les opérateurs d'affectation de Python sont utilisés pour affecter des valeurs
 
 Les opérateurs de comparaison de Python sont utilisés pour comparer deux valeurs et sont couramment utilisés avec des instructions conditionnelles ou `if`.
 
-![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another.](images/comparison_operators.png)
+![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)

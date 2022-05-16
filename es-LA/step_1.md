@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+Los operadores se utilizan en Python para realizar operaciones en variables y valores.
 
-Here are some of the basic operators you can use in your Python projects:
+Estos son algunos de los operadores básicos que puedes usar en tus proyectos de Python:
 
-### Arithmetic operators
+### Operadores aritméticos
 
-Python's arithmetic operators perform common mathematical operations.
+Los operadores aritméticos de Python realizan operaciones matemáticas comunes.
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![Una tabla que muestra los siguientes operadores aritméticos: + realiza sumas; - realiza restas; * realiza multiplicaciones; / realiza divisiones; // realiza divisiones de piso donde la respuesta es un número entero eliminando los decimales; ** realiza potencias; % realiza la función de módulo.](images/arithmetic_operators.png)
 
-### Assignment operators
+### Operadores de asignación
 
-Python's assignment operators are used to assign values to variables.
+Los operadores de asignación de Python se utilizan para asignar valores a las variables.
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![Una tabla que muestra los siguientes operadores de asignación: = asigna un valor al que es igual una variable; += suma un valor a la variable; -= resta un valor de la variable; *= multiplica un valor por la variable; /= divide un valor de la variable.](images/assignment_operators.png)
 
-### Comparison operators
+### Operadores de comparación
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+Los operadores de comparación de Python se usan para comparar dos valores y se usan comúnmente con sentencias condicionales o con `if`.
 
-![A table showing the following arithmetic operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)
+![Una tabla que muestra los siguientes operadores aritméticos: == compara dos valores para ver si son iguales; != compara dos valores para ver si no son iguales; < compara dos valores para ver si uno es menor que otro; > compara dos valores para ver si uno es mayor que otro; >= compara dos valores para ver si uno es mayor o igual que otro; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)

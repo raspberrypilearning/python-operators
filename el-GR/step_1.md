@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+Οι τελεστές χρησιμοποιούνται στην Python για την εκτέλεση εργασιών σε μεταβλητές και τιμές.
 
-Here are some of the basic operators you can use in your Python projects:
+Ακολουθούν μερικοί από τους βασικούς τελεστές που μπορείς να χρησιμοποιήσεις στα έργα σου με Python:
 
-### Arithmetic operators
+### Αριθμητικοί τελεστές
 
-Python's arithmetic operators perform common mathematical operations.
+Οι αριθμητικοί τελεστές της Python εκτελούν κοινές μαθηματικές πράξεις.
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![Ένας πίνακας που δείχνει τους ακόλουθους αριθμητικούς τελεστές: ο + εκτελεί πρόσθεση. ο - εκτελεί αφαίρεση. ο * εκτελεί πολλαπλασιασμό. ο / εκτελεί διαίρεση. ο // εκτελεί ευκλείδια διαίρεση όπου η απάντηση είναι ακέραιος αφαιρώντας τα δεκαδικά ψηφία. ο ** εκτελεί ύψωση σε δύναμη. ο % εκτελεί τη συνάρτηση μοντούλο (επιστρέφει το υπόλοιπο της ευκλείδιας διαίρεσης).](images/arithmetic_operators.png)
 
-### Assignment operators
+### Τελεστές εκχώρησης
 
-Python's assignment operators are used to assign values to variables.
+Οι τελεστές εκχώρησης της Python χρησιμοποιούνται για την εκχώρηση τιμών σε μεταβλητές.
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![Ένας πίνακας που δείχνει τους ακόλουθους τελεστές εκχώρησης: ο = εκχωρεί μια τιμή ίση με μια μεταβλητή. ο += προσθέτει μια τιμή στη μεταβλητή. ο -= αφαιρεί μια τιμή από τη μεταβλητή. ο *= πολλαπλασιάζει μια τιμή με τη μεταβλητή. ο /= διαιρεί μια τιμή από τη μεταβλητή.](images/assignment_operators.png)
 
-### Comparison operators
+### Τελεστές σύγκρισης
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+Οι τελεστές σύγκρισης της Python χρησιμοποιούνται για τη σύγκριση δύο τιμών και χρησιμοποιούνται συνήθως με συνθήκες ή δηλώσεις `if`.
 
-![A table showing the following arithmetic operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; <= compares values to see if one is less than or equal to another](images/comparison_operators.png)
+![Ένας πίνακας που δείχνει τους ακόλουθους τελεστές σύγκρισης: ο == συγκρίνει δύο τιμές για να δει αν είναι ίσες. ο != συγκρίνει δύο τιμές για να δει αν δεν είναι ίσες. ο < συγκρίνει δύο τιμές για να δει αν η μία είναι μικρότερη από την άλλη. ο > συγκρίνει δύο τιμές για να δει αν η μία είναι μεγαλύτερη από την άλλη. ο >= συγκρίνει δύο τιμές για να δει αν η μία είναι μεγαλύτερη ή ίση με μια άλλη˙ <= compares values to see if one is less than or equal to another](images/comparison_operators.png)

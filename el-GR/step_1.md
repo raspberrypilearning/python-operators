@@ -18,4 +18,4 @@
 
 Οι τελεστές σύγκρισης της Python χρησιμοποιούνται για τη σύγκριση δύο τιμών και χρησιμοποιούνται συνήθως με συνθήκες ή δηλώσεις `if`.
 
-![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)
+![Ένας πίνακας που δείχνει τους ακόλουθους τελεστές σύγκρισης: ο == συγκρίνει δύο τιμές για να δει αν είναι ίσες. O != συγκρίνει δύο τιμές για να δει αν δεν είναι ίσες. O < συγκρίνει δύο τιμές για να δει αν η μία είναι μικρότερη από την άλλη. O > συγκρίνει δύο τιμές για να δει αν η μία είναι μεγαλύτερη από την άλλη. O >= συγκρίνει δύο τιμές για να δει αν η μία είναι μεγαλύτερη ή ίση με μια άλλη. O <= συγκρίνει δύο τιμές για να δει αν η μία είναι μικρότερη ή ίση με μια άλλη.](images/comparison_operators.png)

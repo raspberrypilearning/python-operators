@@ -18,4 +18,4 @@ Los operadores de asignación de Python se utilizan para asignar valores a las v
 
 Los operadores de comparación de Python se usan para comparar dos valores y se usan comúnmente con sentencias condicionales o con `if`.
 
-![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)
+![Una tabla que muestra los siguientes operadores de comparación: == compara dos valores para ver si son iguales; != compara dos valores para ver si no son iguales; < compara dos valores para ver si uno es menor que otro; > compara dos valores para ver si uno es mayor que otro; >= compara dos valores para ver si uno es mayor o igual que otro; < = compara valores para ver si uno es menor o igual que otro.](images/comparison_operators.png)

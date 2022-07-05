@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+Mae gweithredwyr yn cael eu defnyddio yn Python i gyflawni gweithrediadau ar newidynnau a gwerthoedd.
 
-Here are some of the basic operators you can use in your Python projects:
+Dyma rai o'r gweithredwyr sylfaenol gallwch chi eu defnyddio yn eich prosiectau Python:
 
-### Arithmetic operators
+### Gweithredwyr rhifyddeg
 
-Python's arithmetic operators perform common mathematical operations.
+Mae gweithredwyr rhifyddeg Python yn cyflawni gweithrediadau mathemategol cyffredin.
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![Tabl yn dangos y gweithredwyr rhifyddeg canlynol: + adio; - tynnu; * lluosi; / rhannu; // rhannu llawr pan fydd yr ateb yn gyfanrif gan dynnu'r degolion; ** codi i bŵer (exponentiation); % y swyddogaeth modwlws.](images/arithmetic_operators.png)
 
-### Assignment operators
+### Gweithredwyr neilltuo
 
-Python's assignment operators are used to assign values to variables.
+Mae gweithredwyr neilltuo Python yn cael eu defnyddio i neilltuo gwerthoedd i newidynnau.
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![Tabl yn dangos y gweithredwyr neilltuo canlynol: = neilltuo gwerth y mae newidyn yn hafal iddo; += ychwanegu gwerth at y newidyn; -= tynnu gwerth o'r newidyn; *= lluosi gwerth gyda'r newidyn; /= rhannu gwerth gyda'r newidyn.](images/assignment_operators.png)
 
-### Comparison operators
+### Gweithredwyr cymharu
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+Mae gweithredwyr cymharu Python yn cael eu defnyddio i gymharu dau werth, ac maen nhw'n cael eu defnyddio gyda datganiadau amodol, neu `if`, yn aml.
 
 ![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)

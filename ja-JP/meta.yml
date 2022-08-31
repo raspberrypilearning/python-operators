@@ -1,11 +1,11 @@
 ---
-title: Python operators
+title: Python演算子
 hero_image: images/banner.png
-description: Ingredient explaining the basics of using operators in Ptyhon 3
+description: Ptyhon 3での演算子の使い方の基本を説明する資料
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-08-11"
 steps:
   - 
-    title: Python operators
+    title: Python演算子

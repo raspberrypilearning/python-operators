@@ -1,21 +1,21 @@
-Operators are used in Python to perform operations on variables and values.
+Pythonでは、変数と値の演算を実行するために演算子を使用します。
 
-Here are some of the basic operators you can use in your Python projects:
+Pythonプロジェクトで使用できる基本的な演算子のいくつかを次に示します。
 
-### Arithmetic operators
+### 算術演算子
 
-Python's arithmetic operators perform common mathematical operations.
+Pythonの算術演算子は、一般的な数学演算を実行します。
 
-![A table showing the following arithmetic operators: + performs addition; - performs subtraction; * performs multiplication; / performs division; // performs floor division where the answer is an integer removing the decimals; ** performs exponentiation; % performs the modulus function.](images/arithmetic_operators.png)
+![次は算術演算子を示した表です。足し算を行う +、引き算を行う -、掛け算を行う *、割り算を行う /、小数を除いた整数を答えとする //、 階乗を行う **、モジュラス関数を行う %です。](images/arithmetic_operators.png)
 
-### Assignment operators
+### 代入演算子
 
-Python's assignment operators are used to assign values to variables.
+Pythonの代入演算子は、変数に値を代入するために使用されます。
 
-![A table showing the following assignment operators: = assigns a value a variable is equal to; += adds a value to the variable; -= subtracts a value from the variable; *= multiplies a value by the variable; /= divides a value from the variable.](images/assignment_operators.png)
+![次は代入演算子を示した表です。変数と等しい値を代入する =、変数に値を加える +=、変数から値を引く -=、変数に値を掛ける *=、変数から値を割る /=です。](images/assignment_operators.png)
 
-### Comparison operators
+### 比較演算子
 
-Python's comparison operators are used to compare two values, and are commonly used with conditional or `if` statements.
+Pythonの比較演算子は2つの値を比較するために使われ、条件文や`if`文などでよく使われます。
 
-![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)
+![次は比較演算子を示した表です。2つの値が等しいかどうかを比較する ==、2つの値が等しくないかどうかを比較する !=、2つの値の一方が他方より小さいかどうかを比較する <、2つの値の一方が他方より大きいかどうかを比較する >、2つの値の一方が他方より大きいか等しいことを比較する >=、2つの値の一方が他方より小さいか等しいことを比較する <=です。](images/comparison_operators.png)

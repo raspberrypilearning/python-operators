@@ -18,4 +18,4 @@ Mae gweithredwyr neilltuo Python yn cael eu defnyddio i neilltuo gwerthoedd i ne
 
 Mae gweithredwyr cymharu Python yn cael eu defnyddio i gymharu dau werth, ac maen nhw'n cael eu defnyddio gyda datganiadau amodol, neu `if`, yn aml.
 
-![A table showing the following comparison operators: == compares two values to see if they are equal; != compares two values to see if the are not equal; < compares two values to see if one is less than another; > compares two values to see if one is greater than another; >= compares two values to see if one is greater than or equal to another; < = compares values to see if one is less than or equal to another.](images/comparison_operators.png)
+![Tabl yn dangos y gweithredwyr canlynol: ==	yn cymharu dau werth i weld a ydynt yn gyfartal; != yn cymharu dau werth i weld a ydynt yn anghyfartal; < yn cymharu dau werth i weld a yw un yn llai nag un arall; > yn cymharu dau werth i weld a yw un yn fwy nag un arall; >= yn cymharu dau werth i weld a yw un yn fwy neu yn gyfartal nag un arall; <= yn cymharu dau werth i weld a yw un yn llai neu yn gyfartal nag un arall.](images/comparison_operators.png)

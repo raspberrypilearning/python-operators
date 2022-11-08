@@ -1,0 +1,57 @@
+Arithmetic operators
+
+What they do
+
+Example
+
+addition
+
+subtraction
+
+multiplication
+
+division
+
+floor division
+
+exponentiation
+
+modulus
+
+x / y (answer can be in floating point eg. 3.7)
+
+x // y (answer is an integer removing the decimals eg. 3)
+
+x ** y (x to the power of y)
+
+x % y (answer gives the remainder after x is divided by y)
+
+Assigns a value a variable is equal to
+
+Adds a value to the variable
+
+Subtracts a value from the variable
+
+Multiplies a value by the variable
+
+Divides a value from the variable
+
+x += 2 is the same as x = x + 2
+
+x -= 2 is the same as x = x - 2
+
+x *= 2 is the same as x = x * 2
+
+x /= 2 is the same as x = x / 2
+
+Compares two values to see if they are equal
+
+Compares two values to see if they are not equal
+
+Compares two values to see if one is greater than another
+
+Compares two values to see if one is less than another
+
+Compares two values to see if one is greater than or equal to another
+
+Compares two values to see if one is less than or equal to another

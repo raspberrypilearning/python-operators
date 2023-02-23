@@ -1,57 +1,57 @@
-Arithmetic operators
+Арифметичні оператори
 
-What they do
+Що вони роблять
 
-Example
+Приклад
 
-addition
+додавання
 
-subtraction
+віднімання
 
-multiplication
+множення
 
-division
+ділення
 
-floor division
+цілочислове ділення
 
-exponentiation
+піднесення до степені
 
-modulus
+ділення по модулю
 
-x / y (answer can be in floating point eg. 3.7)
+x / y (відповідь може бути з плаваючою точкою, наприклад, 3.7)
 
-x // y (answer is an integer removing the decimals eg. 3)
+x // y (відповідь - ціле число з видаленням десяткових дробів, наприклад, 3)
 
-x ** y (x to the power of y)
+x ** y (x в ступені y)
 
-x % y (answer gives the remainder after x is divided by y)
+x % y (відповідь - залишок від ділення x на y)
 
-Assigns a value a variable is equal to
+Присвоює значення, якому дорівнює змінна
 
-Adds a value to the variable
+Додає значення до змінної
 
-Subtracts a value from the variable
+Віднімає значення від змінної
 
-Multiplies a value by the variable
+Множить значення на змінну
 
-Divides a value from the variable
+Ділить значення від змінної
 
-x += 2 is the same as x = x + 2
+x += 2 це те ж саме, що і x = x + 2
 
-x -= 2 is the same as x = x - 2
+x -= 2 це те ж саме, що і x = x - 2
 
-x *= 2 is the same as x = x * 2
+x *= 2 це те ж саме, що і x = x * 2
 
-x /= 2 is the same as x = x / 2
+x /= 2 це те ж саме, що і x = x / 2
 
-Compares two values to see if they are equal
+Порівнює два значення на рівність
 
-Compares two values to see if they are not equal
+Порівнює два значення на нерівність
 
-Compares two values to see if one is greater than another
+Порівнює два значення на більшість
 
-Compares two values to see if one is less than another
+Порівнює два значення на меншість
 
-Compares two values to see if one is greater than or equal to another
+Порівнює два значення на більшість або рівність
 
-Compares two values to see if one is less than or equal to another
+Порівнює два значення на меншість або рівність
